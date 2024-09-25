@@ -17,7 +17,7 @@ Tours -
     - England tour of India - 5 Tests
     - India tour of Sri Lanka - 3 T20I, 3 ODI 
     - India tour of Zimbabwe - 5 T20I 
-    - 
+    - Australia tour of England - 3 T20I, 5 ODI
 - Women's
   - 2024
     - South Africa tour of India - 3 T20I, 3 ODI, 1 Test
