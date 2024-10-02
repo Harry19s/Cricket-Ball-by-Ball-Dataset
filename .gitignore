@@ -3,8 +3,12 @@ Men's/.DS_store
 Men's/2024/.DS_Store
 Women's/.DS_store
 Women's/2024/.DS_Store
-
-
+Men's/DS_store
+Men's/2024/DS_Store
+Women's/DS_store
+Women's/2024/DS_Store
+gitignore
+DS_Store
 
 .gitignore
 # Byte-compiled / optimized / DLL files
