@@ -6,6 +6,8 @@ Tournaments -
     - 2024
       - ICC T20 World Cup 2024
   - Women's
+    - 2023
+      - ICC Women's T20 World Cup 2023
     - 2024
       - Women's Asia Cup 2024
       - ICC Women's T20 World Cup 2024
