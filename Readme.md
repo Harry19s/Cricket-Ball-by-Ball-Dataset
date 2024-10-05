@@ -1,6 +1,6 @@
 # Ball By Ball Datasets
 
-[International]() | [Domestic]()
+[International](#international) | [Domestic](#domestic)
 
 ## International
 
@@ -16,7 +16,9 @@
 - Women's Asia Cup [2024](International/Women's/W%20Asia%20Cup/2024)
 
 ### Tours
+
 #### Men's
+
   - 2024
     - [Afghanistan tour of India](International/Men's/Tours/2024/afg_ind_2024) - 3 T20I
     - [England tour of India](International/Men's/Tours/2024/eng_ind_2024) - 5 Tests
@@ -24,7 +26,9 @@
     - [India tour of Zimbabwe](International/Men's/Tours/2024/ind_zim_2024) - 5 T20I
     - [Australia tour of England](International/Men's/Tours/2024/aus_eng_2024) - 3 T20I, 5 ODI
     - [Westindies tour of Australia](International/Men's/Tours/2024/wi_aus_2024) - 2 Test, 3 ODI, 3 T20I
+  
 #### Women's
+
   - 2024
     - [South Africa tour of India](International/Women's/2024/saw_indw_2024) - 3 T20I, 3 ODI, 1 Test
 
