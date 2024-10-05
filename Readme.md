@@ -4,7 +4,7 @@
 Tournaments - 
   - Men's
     - 2024
-      - ICC T20 World Cup 2024
+      - [ICC T20 World Cup 2024](International/Men's/Tournaments/T20_WC/t20_wc_2024)
   - Women's
     - 2023
       - ICC Women's T20 World Cup 2023
