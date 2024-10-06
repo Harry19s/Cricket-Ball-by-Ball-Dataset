@@ -12,7 +12,7 @@
 
 #### Women's
 
-- ICC Women's T20 World Cup -  [2023](International/Women's/WT20%20WC/2023), [2024](International/Women's/WT20%20WC/2024)
+- ICC Women's T20 World Cup -  [<span style="color:red;"> **2024** </span>](International/Women's/WT20%20WC/2024), [2023](International/Women's/WT20%20WC/2023)
 - Women's Asia Cup [2024](International/Women's/W%20Asia%20Cup/2024)
 
 ### Tours
@@ -26,7 +26,8 @@
     - [India tour of Zimbabwe](International/Men's/Tours/2024/ind_zim_2024) - 5 T20I
     - [Australia tour of England](International/Men's/Tours/2024/aus_eng_2024) - 3 T20I, 5 ODI
     - [Westindies tour of Australia](International/Men's/Tours/2024/wi_aus_2024) - 2 Test, 3 ODI, 3 T20I
-  
+    - [**Bangladesh tour of India**](International/Men's/Tours/2024/ban_ind_2024) - 2 Test, **3 T20I**
+
 #### Women's
 
   - 2024
@@ -38,14 +39,14 @@
 
 #### Men's
 
-- IPL - [2022](Domestic/Men's/IPL/2022), [2023](Domestic/Men's/IPL/2023), [2024](Domestic/Men's/IPL/2024)
-- ILT20 - [2023](Domestic/Men's/ILT20/2023), [2024](Domestic/Men's/ILT20/2024)
-- SA20 - [2023](Domestic/Men's/SA20/2023), [2024](Domestic/Men's/SA20/2024)
-- MLC - [2023](Domestic/Men's/MLC/2023), [2024](Domestic/Men's/MLC/2024)
+- IPL -  [2024](Domestic/Men's/IPL/2024), [2023](Domestic/Men's/IPL/2023), [2022](Domestic/Men's/IPL/2022),
+- ILT20 - [2024](Domestic/Men's/ILT20/2024), [2023](Domestic/Men's/ILT20/2023)
+- SA20 - [2024](Domestic/Men's/SA20/2024), [2023](Domestic/Men's/SA20/2023)
+- MLC - [2024](Domestic/Men's/MLC/2024), [2023](Domestic/Men's/MLC/2023)
 
 #### Women's
 
-- WPL - [2023](Domestic/Women's/WPL/2023), [2024](Domestic/Women's/WPL/2024)
+- WPL - [2024](Domestic/Women's/WPL/2024), [2023](Domestic/Women's/WPL/2023)
 
 ## Check Out my Kaggle Repository for more dataset
 
