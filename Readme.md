@@ -2,7 +2,7 @@
 
 This repository provides comprehensive ball-by-ball datasets of various cricket tournaments and series, both international and domestic.
 
-For a detailed list of available datasets, check [Datasets.md](Datasets.md).
+For a detailed list of available datasets, check [Datasets.md](./dataset.md).
 
 ## Quick Links
 
