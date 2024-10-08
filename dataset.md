@@ -34,6 +34,7 @@ This file provides a detailed list of all available ball-by-ball datasets, organ
   - [India tour of Zimbabwe](International/Men's/Tours/2024/ind_zim_2024) - 5 T20I
   - [Australia tour of England](International/Men's/Tours/2024/aus_eng_2024) - 3 T20I, 5 ODI
   - [West Indies tour of Australia](International/Men's/Tours/2024/wi_aus_2024) - 2 Tests, 3 ODI, 3 T20I
+  - [New Zealand tour of Sri Lanka](International/Men's/Tours/2024/nz_sl_2024/) - 2 Tests
   - [Bangladesh tour of India*](International/Men's/Tours/2024/ban_ind_2024) - 2 Tests, 3 T20I*
 
 #### Women's Tours
