@@ -10,6 +10,9 @@ This file provides a detailed list of all available ball-by-ball datasets, organ
 
 #### Men's Tournaments
 
+- **ICC ODI World Cup**
+  - [2023](International/Men's/Tournaments/ODI_WC/2023)
+
 - **ICC T20 World Cup**
   - [2024](International/Men's/Tournaments/T20_WC/2024) | [2022](International/Men's/Tournaments/T20_WC/2022) | [2021](International/Men's/Tournaments/T20_WC/2021) | [2016](International/Men's/Tournaments/T20_WC/2016)
 
