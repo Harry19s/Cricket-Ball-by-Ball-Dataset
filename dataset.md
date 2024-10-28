@@ -10,11 +10,12 @@ This file provides a detailed list of all available ball-by-ball datasets, organ
 
 #### Men's Tournaments
 
+- **ICC T20 World Cup**
+  - [2024](International/Men's/Tournaments/T20_WC/2024) | [2022](International/Men's/Tournaments/T20_WC/2022) | [2021](International/Men's/Tournaments/T20_WC/2021) | [2016](International/Men's/Tournaments/T20_WC/2016)
+
 - **ICC ODI World Cup**
   - [2023](International/Men's/Tournaments/ODI_WC/2023)
 
-- **ICC T20 World Cup**
-  - [2024](International/Men's/Tournaments/T20_WC/2024) | [2022](International/Men's/Tournaments/T20_WC/2022) | [2021](International/Men's/Tournaments/T20_WC/2021) | [2016](International/Men's/Tournaments/T20_WC/2016)
 
 #### Women's Tournaments
 
@@ -31,18 +32,19 @@ This file provides a detailed list of all available ball-by-ball datasets, organ
 #### Men's Tours
 
 - **2024**
-  - [Afghanistan tour of India](International/Men's/Tours/2024/afg_ind_2024) - 3 T20I
-  - [England tour of India](International/Men's/Tours/2024/eng_ind_2024) - 5 Tests
-  - [India tour of Sri Lanka](International/Men's/Tours/2024/ind_sl_2024) - 3 T20I, 3 ODI
-  - [India tour of Zimbabwe](International/Men's/Tours/2024/ind_zim_2024) - 5 T20I
-  - [Australia tour of England](International/Men's/Tours/2024/aus_eng_2024) - 3 T20I, 5 ODI
-  - [West Indies tour of Australia](International/Men's/Tours/2024/wi_aus_2024) - 2 Tests, 3 ODI, 3 T20I
-  - [New Zealand tour of Sri Lanka](International/Men's/Tours/2024/nz_sl_2024) - 2 Tests
-  - [Bangladesh tour of India](International/Men's/Tours/2024/ban_ind_2024) - 2 Tests, 3 T20I
-  - [Ireland v South Africa, UAE](International/Men's/Tours/2024/ire_rsa_2024) - 2 T20I, 3 ODI
+  - [South Africa tour of Bangladesh*](International/Men's/Tours/2024/rsa_ban_2024) - **2 Tests***
+  - [New Zealand tour of India*](International/Men's/Tours/2024/nz_ind_2024) - **3 Tests***
+  - [West Indies tour of Sri Lanka](International/Men's/Tours/2024/wi_sl_2024) - 3 T20I, 3 ODI
   - [England tour of Pakistan*](International/Men's/Tours/2024/eng_pak_2024) - **3 Tests***
-  - [West Indies tour of Sri Lanka*](International/Men's/Tours/2024/wi_sl_2024) - 3 T20I, **3 ODI***
-  - [New Zealand tour of India](International/Men's/Tours/2024/nz_ind_2024) - **3 Tests***
+  - [Ireland v South Africa, UAE](International/Men's/Tours/2024/ire_rsa_2024) - 2 T20I, 3 ODI
+  - [Bangladesh tour of India](International/Men's/Tours/2024/ban_ind_2024) - 2 Tests, 3 T20I
+  - [New Zealand tour of Sri Lanka](International/Men's/Tours/2024/nz_sl_2024) - 2 Tests
+  - [West Indies tour of Australia](International/Men's/Tours/2024/wi_aus_2024) - 2 Tests, 3 ODI, 3 T20I
+  - [Australia tour of England](International/Men's/Tours/2024/aus_eng_2024) - 3 T20I, 5 ODI
+  - [India tour of Zimbabwe](International/Men's/Tours/2024/ind_zim_2024) - 5 T20I
+  - [India tour of Sri Lanka](International/Men's/Tours/2024/ind_sl_2024) - 3 T20I, 3 ODI
+  - [England tour of India](International/Men's/Tours/2024/eng_ind_2024) - 5 Tests
+  - [Afghanistan tour of India](International/Men's/Tours/2024/afg_ind_2024) - 3 T20I
 
 #### Women's Tours
 
