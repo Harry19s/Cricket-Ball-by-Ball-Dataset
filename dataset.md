@@ -4,6 +4,11 @@ This file provides a detailed list of all available ball-by-ball datasets, organ
 
 ---
 
+## Border-Gavaskar Trophy Special
+
+- [Australia Tour of India 2023](International/Men's/Tours/2023/aus_ind_2023) - 4 Tests, 3 ODI
+
+---
 ## International
 
 ### Tournaments
@@ -48,6 +53,8 @@ This file provides a detailed list of all available ball-by-ball datasets, organ
   - [India tour of Sri Lanka](International/Men's/Tours/2024/ind_sl_2024) - 3 T20I, 3 ODI
   - [England tour of India](International/Men's/Tours/2024/eng_ind_2024) - 5 Tests
   - [Afghanistan tour of India](International/Men's/Tours/2024/afg_ind_2024) - 3 T20I
+- **2023**
+  - [Australia Tour of India](International/Men's/Tours/2023/aus_ind_2023) - 4 Tests, 3 ODI
 
 #### Women's Tours
 
