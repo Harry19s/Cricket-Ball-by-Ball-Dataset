@@ -8,6 +8,17 @@ This file provides a detailed list of all available ball-by-ball datasets, organ
 
 - [Australia Tour of India 2023](International/Men's/Tours/2023/aus_ind_2023) - 4 Tests, 3 ODI
 
+### Australia's past test series
+
+- [Australia tour of New Zealand](International/Men's/Tours/2024/aus_nz_2024) - 3 T20I, 2 Tests
+- [West Indies tour of Australia](International/Men's/Tours/2024/wi_aus_2024) - 2 Tests, 3 ODI, 3 T20I
+
+### India's past test series
+
+- [New Zealand tour of India](International/Men's/Tours/2024/nz_ind_2024) - 3 Tests
+- [Bangladesh tour of India](International/Men's/Tours/2024/ban_ind_2024) - 2 Tests, 3 T20I
+- [England tour of India](International/Men's/Tours/2024/eng_ind_2024) - 5 Tests
+
 ---
 ## International
 
@@ -47,12 +58,14 @@ This file provides a detailed list of all available ball-by-ball datasets, organ
   - [Ireland v South Africa, UAE](International/Men's/Tours/2024/ire_rsa_2024) - 2 T20I, 3 ODI
   - [Bangladesh tour of India](International/Men's/Tours/2024/ban_ind_2024) - 2 Tests, 3 T20I
   - [New Zealand tour of Sri Lanka*](International/Men's/Tours/2024/nz_sl_2024) - 2 Tests, 2 T20I, **3 ODI***
-  - [West Indies tour of Australia](International/Men's/Tours/2024/wi_aus_2024) - 2 Tests, 3 ODI, 3 T20I
+  
   - [Australia tour of England](International/Men's/Tours/2024/aus_eng_2024) - 3 T20I, 5 ODI
-  - [India tour of Zimbabwe](International/Men's/Tours/2024/ind_zim_2024) - 5 T20I
   - [India tour of Sri Lanka](International/Men's/Tours/2024/ind_sl_2024) - 3 T20I, 3 ODI
+  - [India tour of Zimbabwe](International/Men's/Tours/2024/ind_zim_2024) - 5 T20I
+  - [Australia tour of New Zealand](International/Men's/Tours/2024/aus_nz_2024) - 3 T20I, 2 Tests
   - [England tour of India](International/Men's/Tours/2024/eng_ind_2024) - 5 Tests
   - [Afghanistan tour of India](International/Men's/Tours/2024/afg_ind_2024) - 3 T20I
+  - [West Indies tour of Australia](International/Men's/Tours/2024/wi_aus_2024) - 2 Tests, 3 ODI, 3 T20I
 - **2023**
   - [Australia Tour of India](International/Men's/Tours/2023/aus_ind_2023) - 4 Tests, 3 ODI
 
