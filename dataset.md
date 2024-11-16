@@ -7,6 +7,7 @@ This file provides a detailed list of all available ball-by-ball datasets, organ
 ## Border-Gavaskar Trophy Special
 
 - [Australia Tour of India 2023](International/Men's/Tours/2023/aus_ind_2023) - 4 Tests, 3 ODI
+- [India tour of Australia 2020](International/Men's/Tours/2020/ind_aus_2020) - 3 ODI, 3 T20I, 4 Tests
 
 ### Australia's past test series
 
@@ -68,6 +69,8 @@ This file provides a detailed list of all available ball-by-ball datasets, organ
   - [West Indies tour of Australia](International/Men's/Tours/2024/wi_aus_2024) - 2 Tests, 3 ODI, 3 T20I
 - **2023**
   - [Australia Tour of India](International/Men's/Tours/2023/aus_ind_2023) - 4 Tests, 3 ODI
+- **2020**
+  - [India tour of Australia](International/Men's/Tours/2020/ind_aus_2020) - 3 ODI, 3 T20I, 4 Tests
 
 #### Women's Tours
 
