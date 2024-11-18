@@ -13,6 +13,7 @@ This file provides a detailed list of all available ball-by-ball datasets, organ
 
 - [Australia tour of New Zealand](International/Men's/Tours/2024/aus_nz_2024) - 3 T20I, 2 Tests
 - [West Indies tour of Australia](International/Men's/Tours/2024/wi_aus_2024) - 2 Tests, 3 ODI, 3 T20I
+- [Pakistan Tour of Australia](International/Men's/Tours/2023/pak_aus_2023) - 3 Tests
 
 ### India's past test series
 
@@ -69,6 +70,7 @@ This file provides a detailed list of all available ball-by-ball datasets, organ
 
 - **2023**
   - [Australia Tour of India](International/Men's/Tours/2023/aus_ind_2023) - 4 Tests, 3 ODI
+  - [Pakistan Tour of Australia](International/Men's/Tours/2023/pak_aus_2023) - 3 Tests
 
 - **2020**
   - [India tour of Australia](International/Men's/Tours/2020/ind_aus_2020) - 3 ODI, 3 T20I, 4 Tests
