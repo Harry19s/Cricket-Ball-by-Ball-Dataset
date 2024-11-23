@@ -52,6 +52,7 @@ This file provides a detailed list of all available ball-by-ball datasets, organ
 
 - **2024**
   - [India tour of Australia*](International/Men's/Tours/2024/ind_aus_2024) - **5 Tests***
+  - [Bangladesh tour of West Indies](International/Men's/Tours/2024/ban_wi_2024) - **2 Tests***, 3 ODI, 3 T20I
   - [India tour of South Africa](International/Men's/Tours/2024/ind_sa_2024) - 4 T20I
   - [Pakistan tour of Australia](International/Men's/Tours/2024/pak_aus_2024) - 3 ODI, 3 T20I
   - [Afghanistan vs Bangladesh - UAE](International/Men's/Tours/2024/afg_ban_2024) - 3 ODI
