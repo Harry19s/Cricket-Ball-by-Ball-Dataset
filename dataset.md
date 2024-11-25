@@ -6,7 +6,7 @@ This file provides a detailed list of all available ball-by-ball datasets, organ
 
 ## Border-Gavaskar Trophy Special
 
-- [India tour of Australia 2024*](International/Men's/Tours/2024/ind_aus_2024) - **5 Tests***
+- [India tour of Australia 2024*](International/Men's/Tours/2024/ind_aus_2024) - **1/5 Tests***
 - [Australia Tour of India 2023](International/Men's/Tours/2023/aus_ind_2023) - 4 Tests, 3 ODI
 - [India tour of Australia 2020](International/Men's/Tours/2020/ind_aus_2020) - 3 ODI, 3 T20I, 4 Tests
 
