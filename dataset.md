@@ -52,6 +52,7 @@ This file provides a detailed list of all available ball-by-ball datasets, organ
 
 - **2024**
   - [Sri Lanka tour of South Africa](International/Men's/Tours/2024/sl_rsa_2024) - **1/2 Tests**
+  - [England tour of New Zealand](International/Men's/Tours/2024/eng_nz_2024) - **1/3 Tests**
   - [India tour of Australia*](International/Men's/Tours/2024/ind_aus_2024) - **5 Tests***
   - [Bangladesh tour of West Indies](International/Men's/Tours/2024/ban_wi_2024) - **2 Tests***, 3 ODI, 3 T20I
   - [India tour of South Africa](International/Men's/Tours/2024/ind_sa_2024) - 4 T20I
