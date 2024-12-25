@@ -87,6 +87,7 @@ This file provides a detailed list of all available ball-by-ball datasets, organ
 #### Women's Tours
 
 - **2024**
+  - [Australia Women tour of New Zealand](International/Women's/Tours/2024/ausw_nzw_2024) - 3 ODI
   - [West Indies Women tour of India](International/Women's/Tours/2024/wiw_indw_2024) - 3 T20I, **3 ODI***
   - [England Women tour of South Africa](International/Women's/Tours/2024/engw_rsaw_2024) - 3T20I, 3 ODI, 1 Test
   - [India Women tour of Australia](International/Women's/Tours/2024/indw_ausw_2024) - 3 ODI
