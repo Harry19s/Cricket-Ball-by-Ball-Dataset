@@ -51,7 +51,7 @@ This file provides a detailed list of all available ball-by-ball datasets, organ
 #### Men's Tours
 
 - **2024**
-  - [Pakistan tour of South Africa](International/Men's/Tours/2024/pak_rsa_2024) - 3 T20I, 3 ODI, **2 Tests***
+  - [Pakistan tour of South Africa](International/Men's/Tours/2024/pak_rsa_2024) - 3 T20I, 3 ODI, **1/2 Tests***
   - [Afghanistan tour of Zimbabwe](International/Men's/Tours/2024/afg_zim_2024) - 3 T20I, 3 ODI, **2 Tests***
   - [Pakistan tour of Zimbabwe](International/Men's/Tours/2024/pak_zim_2024) - 3 ODI, 3 T20I
   - [Sri Lanka tour of South Africa](International/Men's/Tours/2024/sl_rsa_2024) - 2 Tests
@@ -68,7 +68,7 @@ This file provides a detailed list of all available ball-by-ball datasets, organ
   - [England tour of Pakistan](International/Men's/Tours/2024/eng_pak_2024) - 3 Tests
   - [Ireland vs South Africa, UAE](International/Men's/Tours/2024/ire_rsa_2024) - 2 T20I, 3 ODI
   - [Bangladesh tour of India](International/Men's/Tours/2024/ban_ind_2024) - 2 Tests, 3 T20I
-  - [New Zealand tour of Sri Lanka*](International/Men's/Tours/2024/nz_sl_2024) - 2 Tests, 2 T20I, 3 ODI
+  - [New Zealand tour of Sri Lanka](International/Men's/Tours/2024/nz_sl_2024) - 2 Tests, 2 T20I, 3 ODI
   - [Australia tour of England](International/Men's/Tours/2024/aus_eng_2024) - 3 T20I, 5 ODI
   - [India tour of Sri Lanka](International/Men's/Tours/2024/ind_sl_2024) - 3 T20I, 3 ODI
   - [India tour of Zimbabwe](International/Men's/Tours/2024/ind_zim_2024) - 5 T20I
