@@ -6,7 +6,7 @@ This file provides a detailed list of all available ball-by-ball datasets, organ
 
 ## Border-Gavaskar Trophy Special
 
-- [India tour of Australia 2024*](International/Men's/Tours/2024/ind_aus_2024) - **4/5 Tests***
+- [India tour of Australia 2024*](International/Men's/Tours/2024/ind_aus_2024) - **5 Tests***
 - [Australia Tour of India 2023](International/Men's/Tours/2023/aus_ind_2023) - 4 Tests, 3 ODI
 - [India tour of Australia 2020](International/Men's/Tours/2020/ind_aus_2020) - 3 ODI, 3 T20I, 4 Tests
 
@@ -57,7 +57,7 @@ This file provides a detailed list of all available ball-by-ball datasets, organ
   - [Pakistan tour of Zimbabwe](International/Men's/Tours/2024/pak_zim_2024) - 3 ODI, 3 T20I
   - [Sri Lanka tour of South Africa](International/Men's/Tours/2024/sl_rsa_2024) - 2 Tests
   - [England tour of New Zealand](International/Men's/Tours/2024/eng_nz_2024) - 3 Tests
-  - [India tour of Australia*](International/Men's/Tours/2024/ind_aus_2024) - **4/5 Tests***
+  - [India tour of Australia*](International/Men's/Tours/2024/ind_aus_2024) - **5 Tests***
   - [Bangladesh tour of West Indies](International/Men's/Tours/2024/ban_wi_2024) - 2 Tests, 3 ODI, 3 T20I
   - [India tour of South Africa](International/Men's/Tours/2024/ind_sa_2024) - 4 T20I
   - [Pakistan tour of Australia](International/Men's/Tours/2024/pak_aus_2024) - 3 ODI, 3 T20I
