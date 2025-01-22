@@ -7,12 +7,12 @@ This file provides a detailed list of all available ball-by-ball datasets, organ
 ## T20 Leagues Special Season
 
 - **SA20**
-  - [2025](Domestic/Men's/SA20/2025) | [2024](Domestic/Men's/SA20/2024) | [2023](Domestic/Men's/SA20/2023)
+  - [2025*](Domestic/Men's/SA20/2025) | [2024](Domestic/Men's/SA20/2024) | [2023](Domestic/Men's/SA20/2023)
 
 ### ILT20
 
 - **International League T20 (ILT20)**
-  - [2025](Domestic/Men's/ILT20/2025) | [2024](Domestic/Men's/ILT20/2024) | [2023](Domestic/Men's/ILT20/2023)
+  - [2025*](Domestic/Men's/ILT20/2025) | [2024](Domestic/Men's/ILT20/2024) | [2023](Domestic/Men's/ILT20/2023)
 
 ---
 
