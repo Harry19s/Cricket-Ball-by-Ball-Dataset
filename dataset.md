@@ -4,15 +4,17 @@ This file provides a detailed list of all available ball-by-ball datasets, organ
 
 ---
 
+## Champion's Trophy
+
+- **Champion's Trophy 2025**
+  - [2025](International/Men's/Tournaments/CT/2025)
+
+---
+
 ## T20 Leagues Special Season
 
-- **SA20**
-  - [2025*](Domestic/Men's/SA20/2025) | [2024](Domestic/Men's/SA20/2024) | [2023](Domestic/Men's/SA20/2023)
-
-### ILT20
-
-- **International League T20 (ILT20)**
-  - [2025*](Domestic/Men's/ILT20/2025) | [2024](Domestic/Men's/ILT20/2024) | [2023](Domestic/Men's/ILT20/2023)
+- **Women's Premier League (WPL)**
+  - [2025](Domestic/Women's/WPL/2025) | [2024](Domestic/Women's/WPL/2024) | [2023](Domestic/Women's/WPL/2023)
 
 ---
 
@@ -21,6 +23,9 @@ This file provides a detailed list of all available ball-by-ball datasets, organ
 ### Tournaments
 
 #### Men's Tournaments
+
+- **Champion's Trophy**
+  - [2025](International/Men's/Tournaments/CT/2025)
 
 - **ICC T20 World Cup**
   - [2024](International/Men's/Tournaments/T20_WC/2024) | [2022](International/Men's/Tournaments/T20_WC/2022) | [2021](International/Men's/Tournaments/T20_WC/2021) | [2016](International/Men's/Tournaments/T20_WC/2016)
