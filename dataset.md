@@ -7,7 +7,7 @@ This file provides a detailed list of all available ball-by-ball datasets, organ
 ## T20 Leagues Special Season
 
 - **Indian Premier League (IPL)**
-  - [2024](Domestic/Men's/IPL/2024) | [2023](Domestic/Men's/IPL/2023) | [2022](Domestic/Men's/IPL/2022)
+  - [2025](Domestic/Men's/IPL/2025) | [2024](Domestic/Men's/IPL/2024) | [2023](Domestic/Men's/IPL/2023) | [2022](Domestic/Men's/IPL/2022)
 
 - **Women's Premier League (WPL)**
   - [2025](Domestic/Women's/WPL/2025) | [2024](Domestic/Women's/WPL/2024) | [2023](Domestic/Women's/WPL/2023)
