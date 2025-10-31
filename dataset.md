@@ -2,15 +2,6 @@
 
 This file provides a detailed list of all available ball-by-ball datasets, organized by international and domestic matches.
 
----
-
-## India tour of England
-
-- [India tour of England*](International/Men's/Tours/2025/ind_eng_2025) - 5 Tests
----
-## MLC 2025 
-[2025](Domestic/Men's/MLC/2025)
-
 ## International
 
 ### Tournaments
