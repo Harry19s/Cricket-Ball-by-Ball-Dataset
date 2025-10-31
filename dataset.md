@@ -19,7 +19,10 @@ This file provides a detailed list of all available ball-by-ball datasets, organ
   - [2025](International/Men's/Tournaments/CT/2025)
 
 - **ICC T20 World Cup**
-  - [2024](International/Men's/Tournaments/T20_WC/2024) | [2022](International/Men's/Tournaments/T20_WC/2022) | [2021](International/Men's/Tournaments/T20_WC/2021) | [2016](International/Men's/Tournaments/T20_WC/2016)
+  - [2024](International/Men's/Tournaments/T20_WC/2024)
+  - [2022](International/Men's/Tournaments/T20_WC/2022)
+  - [2021](International/Men's/Tournaments/T20_WC/2021)
+  - [2016](International/Men's/Tournaments/T20_WC/2016)
 
 - **ICC ODI World Cup**
   - [2023](International/Men's/Tournaments/ODI_WC/2023)
@@ -30,7 +33,8 @@ This file provides a detailed list of all available ball-by-ball datasets, organ
   - [2025](International/Women's/Tournaments/WODI%20WC)
 
 - **ICC Women's T20 World Cup**
-  - [2024](International/Women's/WT20%20WC/2024) | [2023](International/Women's/WT20%20WC/2023)
+  - [2024](International/Women's/WT20%20WC/2024)
+  - [2023](International/Women's/WT20%20WC/2023)
   
 - **Women's Asia Cup**
   - [2024](International/Women's/W%20Asia%20Cup/2024)
@@ -99,21 +103,29 @@ This file provides a detailed list of all available ball-by-ball datasets, organ
 #### Men's Domestic Tournaments
 
 - **Indian Premier League (IPL)**
-  - [2024](Domestic/Men's/IPL/2024) | [2023](Domestic/Men's/IPL/2023) | [2022](Domestic/Men's/IPL/2022)
+  - [2024](Domestic/Men's/IPL/2024)
+  - [2023](Domestic/Men's/IPL/2023)
+  - [2022](Domestic/Men's/IPL/2022)
 
 - **International League T20 (ILT20)**
-  - [2024](Domestic/Men's/ILT20/2024) | [2023](Domestic/Men's/ILT20/2023)
+  - [2024](Domestic/Men's/ILT20/2024)
+  - [2023](Domestic/Men's/ILT20/2023)
 
 - **SA20**
-  - [2024](Domestic/Men's/SA20/2024) | [2023](Domestic/Men's/SA20/2023)
+  - [2024](Domestic/Men's/SA20/2024)
+  - [2023](Domestic/Men's/SA20/2023)
 
 - **Major League Cricket (MLC)**
-  - [2025](Domestic/Men's/MLC/2025) | [2024](Domestic/Men's/MLC/2024) | [2023](Domestic/Men's/MLC/2023)
+  - [2025](Domestic/Men's/MLC/2025)
+  - [2024](Domestic/Men's/MLC/2024)
+  - [2023](Domestic/Men's/MLC/2023)
 
 #### Women's Domestic Tournaments
 
 - **Women's Premier League (WPL)**
-  - [2025](Domestic/Women's/WPL/2025) | [2024](Domestic/Women's/WPL/2024) | [2023](Domestic/Women's/WPL/2023)
+  - [2025](Domestic/Women's/WPL/2025)
+  - [2024](Domestic/Women's/WPL/2024)
+  - [2023](Domestic/Women's/WPL/2023)
 
 ----
 
