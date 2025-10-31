@@ -9,7 +9,6 @@ This file provides a detailed list of all available ball-by-ball datasets, organ
 - **ICC Women's ODI World Cup**
   - [2025](International/Women's/Tournaments/WODI%20WC)
 
-
 ## International
 
 ### Tournaments
@@ -36,7 +35,7 @@ This file provides a detailed list of all available ball-by-ball datasets, organ
 - **Women's Asia Cup**
   - [2024](International/Women's/W%20Asia%20Cup/2024)
 
----
+----
 
 ### Tours
 
@@ -91,7 +90,7 @@ This file provides a detailed list of all available ball-by-ball datasets, organ
   - [New Zealand Women tour of India](International/Women's/Tours/2024/nzw_indw_2024) - 3 ODI
   - [South Africa Women tour of India](International/Women's/2024/saw_indw_2024) - 3 T20I, 3 ODI, 1 Test
 
----
+----
 
 ## Domestic
 
@@ -116,12 +115,12 @@ This file provides a detailed list of all available ball-by-ball datasets, organ
 - **Women's Premier League (WPL)**
   - [2025](Domestic/Women's/WPL/2025) | [2024](Domestic/Women's/WPL/2024) | [2023](Domestic/Women's/WPL/2023)
 
----
+----
 
 ## Note
 
 Datasets marked with an asterisk (*) are planned or in progress and will be added as they become available.
 
----
+----
 
-For more datasets and updates, visit the main repository or my [Kaggle profile](https://www.kaggle.com/sahiltailor).
+For more datasets and updates, visit the main repository or my [Sahil Tailor's Kaggle profile](https://www.kaggle.com/sahiltailor).
