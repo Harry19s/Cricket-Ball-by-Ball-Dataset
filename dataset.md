@@ -6,6 +6,8 @@ This file provides a detailed list of all available ball-by-ball datasets, organ
 
 ## Women's ODI WC Dataset
 
+- **ICC Women's ODI World Cup**
+  - [2025](International/Women's/Tournaments/WODI%20WC)
 
 
 ## International
