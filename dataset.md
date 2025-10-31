@@ -2,6 +2,12 @@
 
 This file provides a detailed list of all available ball-by-ball datasets, organized by international and domestic matches.
 
+----
+
+## Women's ODI WC Dataset
+
+
+
 ## International
 
 ### Tournaments
@@ -19,6 +25,9 @@ This file provides a detailed list of all available ball-by-ball datasets, organ
 
 #### Women's Tournaments
 
+- **ICC Women's ODI World Cup**
+  - [2025](International/Women's/Tournaments/WODI%20WC)
+
 - **ICC Women's T20 World Cup**
   - [2024](International/Women's/WT20%20WC/2024) | [2023](International/Women's/WT20%20WC/2023)
   
@@ -32,7 +41,7 @@ This file provides a detailed list of all available ball-by-ball datasets, organ
 #### Men's Tours
 
 - **2025**
-  - [India tour of England*](International/Men's/Tours/2025/ind_eng_2025) - 5 Tests
+  - [India tour of England](International/Men's/Tours/2025/ind_eng_2025) - 5 Tests
   - [Australia vs South Africa Final in Lord's, England](International/Men's/Tournaments/WTC%20Final%202025/wtc_final_2025_deliveries.csv) - One off tests
   - [England tour of India](International/Men's/Tours/2025/eng_ind_2025) - 5 T20I, 3 ODI
 - **2024**
